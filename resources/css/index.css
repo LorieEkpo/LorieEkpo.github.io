@@ -1,0 +1,34 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  
+  h1 {
+    color: var(--Dark-Colour, #52504E);
+    /* Header 1 */
+    font-family: Oswald;
+    font-size: 78px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    color: var(--Main-Colour, #FF9D00);
+    
+    /* Header 1 */
+    font-family: Oswald;
+    font-size: 78px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  
+  p, 
+  li {
+    font-size: 18px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
